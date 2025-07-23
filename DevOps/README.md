@@ -3,7 +3,7 @@
 
 The implementation of DevOps Web application in Azure Kubernetes Services with Terraform 
 
-Some folders and scripts have been intentionally ommited : 
+Some folders and scripts have been intentionally omitted : 
 - GitHub actions 
 - SRC = WebApps
 

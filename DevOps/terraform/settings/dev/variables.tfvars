@@ -1,0 +1,6 @@
+environment          = "dev"
+stage                = "alpha"
+resource_group_name  = "rg-dev-tfstate-jpls"
+storage_account_name = "st541devjpls"
+container_name       = "tf-dev-tfstate-jpls"
+key                  = "tf.dev.tfstatejpls"

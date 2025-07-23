@@ -1,0 +1,4 @@
+Category,Cost
+Meals, 900.89
+Travels, 800.87
+Misc, 20.00
